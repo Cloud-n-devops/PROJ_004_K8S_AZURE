@@ -1,0 +1,9 @@
+*.pfx
+*.key
+*.pem
+cert*
+credentials.tf
+setup_env.sh
+terraform.tfvars
+*.tfstate*
+terraform.auto.tfvars
